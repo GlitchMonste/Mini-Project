@@ -11,6 +11,13 @@ t=0.0;
 branch="";
 
 }
+ {
+name="";
+amt=0.0;
+t=0.0;
+branch="";
+
+}
 Company(String n, double amot,String b)
 {
 name=n;
